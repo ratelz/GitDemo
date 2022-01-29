@@ -56,6 +56,9 @@ public static void main (String[]args) {
 //	String name = "ROBERT";
 //	
 //	System.out.println(name.substring(name.length() - 1));
+	
+	System.out.println("Hello");
+	System.out.println("Hello");
 
 }
 }
